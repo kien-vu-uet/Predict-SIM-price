@@ -1,0 +1,25 @@
+{
+    "rm_cols" : [
+        "cuu_quy_sl",
+        "sanh_lui_3_dep",
+        "sanh_lui_4_dep",
+        "sanh_lui_5+_dep", 
+        "sanh_tien_8_sl",
+        "sanh_tien_9_sl",
+        "sanh_tien_3_dep",
+        "sanh_tien_4_dep",
+        "sanh_tien_5+_dep"
+    ],
+    "pca" : [
+        ["nhi_hoa_sl", "5+_quy_dep"],
+        ["tam_hoa_sl", "tam_hoa_dep"],
+        ["tu_quy_sl", "tu_quy_dep"],
+        ["ngu_quy_sl", "lap#_sieu_dep"],
+        ["sanh_tien_3_sl", "sanh_o_duoi"],
+        ["ganh_dao_dang_5_sl", "sim_lap_dang_6_5_sl"],
+        ["sanh_tien_6_sl", "sanh_tien_sieu_dep"],
+        ["sanh_lui_6_sl", "sanh_lui_sieu_dep"],
+        ["sim_lap_dang_4_sl", "sim_lap_dang_6_3_sl"],
+        ["ganh_dao_dang_4_sl", "ganh_dao_duoi"]
+    ]
+}

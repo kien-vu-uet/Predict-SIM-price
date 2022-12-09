@@ -1,0 +1,4 @@
+{
+    "price_threshold" : [3000000,30000000,100000000],
+    "model" : "segment_models/catboost_4label.sav"
+}
