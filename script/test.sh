@@ -12,4 +12,4 @@ python test.py --input="segmentation_2_test.csv" --output="test_results/test_res
 
 # For testing with segmentation = 4
 python segmentation.py --input="preprocess_test.csv" --output="segmentation_4_test.csv" --is-test-set=True --cfg="cfg/segment_4_cfg.json"
-python test.py --input="segmentation_4_test.csv" --output="test_results/test_result_with_4_segment.csv"
+python test.py --input="segmentation_4_test.csv" --output="test_results/test_result_with_4_segment.csv" --model="models/xgboost_regressor_4.sav"
